@@ -6,7 +6,7 @@ let user = {
     { id: 2, title: "فيسبوك", url: "https://www.facebook.com/share/15XzKHk6AY/", icon: "fab fa-facebook" },
     { id: 3, title: "قناة الواتساب", url: "https://www.whatsapp.com/channel/0029VaGZhXA7tkjIXpZTjR1e?fbclid=PAZXh0bgNhZW0CMTEAAaZ2aT2x63_3yzcqEdPAWQSjZ9TRS2rzV_jjD4AAoqE5E4YOPcXc_naCkKA_aem_-zLk_w2THxc3yCUdIYS4_g", icon: "fab fa-whatsapp"},
     { id: 4, title: "رقم واتساب", url: "https://wa.me/+967711179117", icon: "fab fa-whatsapp" },
-    { id: 5, title: "موقعنا الالكتروني", url: "https://shihab2024-svg.github.io/lali-be/", icon: "fas fa-globe" }
+    { id: 5, title: "موقعنا الالكتروني", url: "https://shihab2024-svg.github.io/lali-be/", icon: "fa-solid fa-window-restore" }
   ]
 };
 
