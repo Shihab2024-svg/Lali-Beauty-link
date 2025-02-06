@@ -5,7 +5,8 @@ let user = {
     { id: 1, title: "انستاجرام", url: "https://www.instagram.com/lali_beauty11?igsh=NXJ3dWVnemp2dWp4", icon: "fab fa-instagram" },
     { id: 2, title: "فيسبوك", url: "https://www.facebook.com/share/15XzKHk6AY/", icon: "fab fa-facebook" },
     { id: 3, title: "قناة الواتساب", url: "https://www.whatsapp.com/channel/0029VaGZhXA7tkjIXpZTjR1e?fbclid=PAZXh0bgNhZW0CMTEAAaZ2aT2x63_3yzcqEdPAWQSjZ9TRS2rzV_jjD4AAoqE5E4YOPcXc_naCkKA_aem_-zLk_w2THxc3yCUdIYS4_g", icon: "fab fa-whatsapp"},
-    { id: 4, title: "رقم واتساب", url: "https://wa.me/+967711179117", icon: "fab fa-whatsapp" }
+    { id: 4, title: "رقم واتساب", url: "https://wa.me/+967711179117", icon: "fab fa-whatsapp" },
+    { id: 5, title: "تحميل مجلة المنتجات PDF", url: "https://drive.google.com/file/d/1t1Dx6yBtIkvkIerZ6_k05X-4JOUU1SQo/view?usp=sharing", icon: "fab fa-whatsapp" }
   ]
 };
 
